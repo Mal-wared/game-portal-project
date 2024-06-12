@@ -1,12 +1,34 @@
 1. Scrum
-- Product Backlog (how often should we refine the product backlog or create more items?)
-- Sprint Planning (how often how much time per sprint should we allocate towards planning the next sprint?)
-- Sprinting (how long should each sprint be?)
+- Intro
+  - Scrum is a framework for implementing Agile (project principles emphasizing collaboration, functioning software, and team self management)
+- Scrum Roles
+  - Product Owner
+    - Communicates with stakeholders and scrum team to express backlog items and ensure the team understands backlog items
+  - Scrum Master
+    - Facilitates scrum events to ensure they occur
+  - Development Team
+    - Responsible for developing and delivering products at the end of each sprint
+    - Self-organizing; they decide how to do their work and who will do what
+- Scrum Artifacts
+  - Product Backlog
+  - Sprint Backlog
+  - Product Increment
+- Scrum Events
+  - Sprint (lasts between 1 week and 1 month)
+    - How long should each sprint be?
+  - Sprint Planning (meeting that kicks off sprint)
+    - How often how much time per sprint should we allocate towards planning the next sprint?
+  - Daily Scrum (or Standup)
+  - Sprint Review
+  - Sprint Retrospective
+  - Backlog Refinement
+    - How often should we refine the product backlog or create more items?
 
 2. Git
 - Pull (updating local branch)
 - Add, Commit, Push (Staging changes, committing them, pushing them)
 - Branching (branch names, adding branch to issue, creating a pull request, facilitators merging)
+  - DO NOT push incomplete changes to MAIN BRANCH
 
 3. GitHub Projects & Issues
 - Issues (task list, set tags)
