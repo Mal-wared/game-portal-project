@@ -1,0 +1,13 @@
+1. Scrum
+- Product Backlog (how often should we refine the product backlog or create more items?)
+- Sprint Planning (how often how much time per sprint should we allocate towards planning the next sprint?)
+- Sprinting (how long should each sprint be?)
+
+2. Git
+- Pull (updating local branch)
+- Add, Commit, Push (Staging changes, committing them, pushing them)
+- Branching (branch names, adding branch to issue, creating a pull request, facilitators merging)
+
+3. GitHub Projects & Issues
+- Issues (task list, set tags)
+- Projects (manages entire project for the Scrum process, whenever Scrum meeting held, screenshare GitHub project)
