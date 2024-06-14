@@ -34,3 +34,4 @@
 3. GitHub Projects & Issues
 - Issues (task list, set tags, assign workers)
 - Projects (manages entire project for the Scrum process, whenever Scrum meeting held, screenshare GitHub project)
+- something else
