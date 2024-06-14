@@ -32,5 +32,5 @@
     - As a developer, you should only do merge requests and have someone else review it (Either a lead or another 2 other peers). 
 
 3. GitHub Projects & Issues
-- Issues (task list, set tags)
+- Issues (task list, set tags, assign workers)
 - Projects (manages entire project for the Scrum process, whenever Scrum meeting held, screenshare GitHub project)
